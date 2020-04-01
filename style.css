@@ -1,0 +1,56 @@
+body {
+
+  background-color: black;
+  color: white;
+
+}
+
+
+header {
+
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+
+nav {
+
+  text-align: center;
+
+}
+
+.filterButton{
+  display: inline;
+
+}
+
+label{
+
+  display: inline;
+}
+
+
+
+
+#filmContainer{
+  margin: 30px 30px 30px 30px;
+  padding:20px;
+  text-align: center;
+
+}
+
+li{
+
+float:left;
+padding:20px;
+transition-timing-function: ease-in;
+
+}
+
+img {
+
+  border-radius: 15px;
+  height: 450px;
+  width: 290px;
+}
